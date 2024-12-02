@@ -1,0 +1,15 @@
+{
+  "name": "team.e-s.unity.diagnostics.wave",
+  "version": "1.0.0",
+  "displayName": "Diagnostics Wave",
+  "unity": "2023.2",
+  "keywords": [
+    "Wave",
+    "Sampling"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "E/s",
+    "email": "lain@e-s.team"
+  }
+}
